@@ -1,0 +1,15 @@
+.title{
+    background-color: #C1C1C1;
+}
+.links {
+    color: black;
+}
+
+#message > h1{
+    text-align: center;
+}
+
+.result{
+    text-align: center;
+    font-size: 150px;
+}
